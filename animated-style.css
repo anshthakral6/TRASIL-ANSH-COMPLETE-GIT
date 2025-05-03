@@ -1,0 +1,9 @@
+.animated-box {
+  background: #fff;
+  padding: 2rem;
+  margin: 1rem auto;
+  max-width: 600px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  border-radius: 8px;
+  text-align: center;
+}
